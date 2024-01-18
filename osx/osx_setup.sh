@@ -32,7 +32,7 @@ brew install --cask shottr
 brew install --cask spotify
 brew install --cask thunderbird
 brew install --cask vlc
-brew install --cask vscodium
+brew install --cask visual-studio-code
 
 # cleanup
 brew cleanup --force
