@@ -25,6 +25,7 @@ brew install --cask combine-pdfs
 brew install --cask coteditor
 brew install --cask discord
 brew install --cask firefox
+brew install --cask github
 brew install --cask libreoffice
 brew install --cask rectangle
 brew install --cask shottr
