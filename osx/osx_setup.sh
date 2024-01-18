@@ -31,6 +31,7 @@ brew install --cask shottr
 brew install --cask spotify
 brew install --cask thunderbird
 brew install --cask vlc
+brew install --cask vscodium
 
 # cleanup
 brew cleanup --force
