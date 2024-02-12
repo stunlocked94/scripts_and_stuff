@@ -15,9 +15,11 @@ mas install 407963104  # Pixelmator
 mas install 1147396723 # WhatsApp
 mas install 937984704 # Amphetamine
 
-# Install other Apps
+# Install formulae
+brew install git
+
+# Install casks
 echo Install Homebrew casks
-brew install brew-cask
 brew install --cask affinity-designer
 brew install --cask affinity-photo
 brew install --cask affinity-publisher
@@ -26,13 +28,15 @@ brew install --cask coteditor
 brew install --cask discord
 brew install --cask firefox
 brew install --cask github
+brew install --cask google-chrome
+brew install --cask hoppscotch
 brew install --cask libreoffice
 brew install --cask rectangle
 brew install --cask shottr
 brew install --cask spotify
 brew install --cask thunderbird
-brew install --cask vlc
 brew install --cask visual-studio-code
+brew install --cask vlc
 
 # cleanup
 brew cleanup --force
