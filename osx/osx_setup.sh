@@ -48,7 +48,6 @@ brew install localsend
 
 # cleanup
 brew cleanup
-rm -f -r /Library/Caches/Homebrew/*
 
 echo Install the following apps manually:
 echo "https://github.com/lihaoyun6/AirBattery/"
