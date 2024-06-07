@@ -30,6 +30,7 @@ brew install --cask github
 brew install --cask google-chrome
 brew install --cask libreoffice
 brew install --cask mac-mouse-fix
+brew install only-switch
 brew install --cask raycast
 brew install --cask rectangle
 brew install --cask shottr
