@@ -51,3 +51,6 @@ rm -f -r /Library/Caches/Homebrew/*
 
 echo Install the following apps manually:
 echo "https://github.com/lihaoyun6/AirBattery/"
+
+echo Resetting Launchpad
+defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
