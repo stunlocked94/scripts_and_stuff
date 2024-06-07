@@ -12,7 +12,6 @@ echo
 
 # Install App Store Apps
 mas install 407963104  # Pixelmator
-mas install 1147396723 # WhatsApp
 mas install 937984704 # Amphetamine
 
 # Install formulae
@@ -29,15 +28,19 @@ brew install --cask discord
 brew install --cask firefox
 brew install --cask github
 brew install --cask google-chrome
-brew install --cask hoppscotch
 brew install --cask libreoffice
 brew install --cask rectangle
 brew install --cask shottr
 brew install --cask spotify
 brew install --cask thunderbird
 brew install --cask visual-studio-code
+brew install --cask vscodium
 brew install --cask vlc
+brew install --cask whatsapp
 
 # cleanup
 brew cleanup --force
 rm -f -r /Library/Caches/Homebrew/*
+
+echo Install the following apps manually:
+echo "https://github.com/lihaoyun6/AirBattery/"
