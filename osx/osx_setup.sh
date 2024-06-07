@@ -29,14 +29,21 @@ brew install --cask firefox
 brew install --cask github
 brew install --cask google-chrome
 brew install --cask libreoffice
+brew install --cask mac-mouse-fix
+brew install --cask raycast
 brew install --cask rectangle
 brew install --cask shottr
 brew install --cask spotify
+brew install --cask the-unarchiver
 brew install --cask thunderbird
 brew install --cask visual-studio-code
 brew install --cask vscodium
 brew install --cask vlc
 brew install --cask whatsapp
+
+# External stuff
+brew tap localsend/localsend
+brew install localsend
 
 # cleanup
 brew cleanup --force
