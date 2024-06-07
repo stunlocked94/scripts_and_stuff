@@ -47,7 +47,7 @@ brew tap localsend/localsend
 brew install localsend
 
 # cleanup
-brew cleanup --force
+brew cleanup
 rm -f -r /Library/Caches/Homebrew/*
 
 echo Install the following apps manually:
