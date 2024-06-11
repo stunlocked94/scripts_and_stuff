@@ -30,15 +30,9 @@ brew install --cask github
 brew install --cask google-chrome
 brew install --cask libreoffice
 brew install --cask mac-mouse-fix
-brew install only-switch
-brew install --cask raycast
-brew install --cask rectangle
 brew install --cask shottr
 brew install --cask spotify
-brew install --cask the-unarchiver
-brew install --cask thunderbird
 brew install --cask visual-studio-code
-brew install --cask vscodium
 brew install --cask vlc
 brew install --cask whatsapp
 
@@ -48,9 +42,6 @@ brew install localsend
 
 # cleanup
 brew cleanup
-
-echo Install the following apps manually:
-echo "https://github.com/lihaoyun6/AirBattery/"
 
 echo Resetting Launchpad
 defaults write com.apple.dock ResetLaunchPad -bool true; killall Dock
